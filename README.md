@@ -1,19 +1,5 @@
-### Hi there 👋
-<body>
-<head>
-  <style>
-    @font-face
-    {
-    font-family: 'MR ROBOT';
-    src: url(./MR%20ROBOT.woff2) format('woff2');
-    }
-    h1 {
-      font-family: 'MR ROBOT';
-    }
-  </style>
-</head>
 <center>
-<h1 style="font-family: 'MR ROBOT';">
+<h1 style="src: url(./MR%20ROBOT.woff2) format('woff2');font-family: 'MR ROBOT';">
 Hello Friend
 </h1>
 <h2>
