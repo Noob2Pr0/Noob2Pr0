@@ -1,20 +1,10 @@
 <center>
-<h1 style="src: url(./MR%20ROBOT.woff2) format('woff2');font-family: 'MR ROBOT';">
+<h1 style="font-family: 'MR ROBOT';src: url(./MR%20ROBOT.woff2) format('woff2');">
 Hello Friend
 </h1>
 <h2>
 I am Omid Nasiri pouya
-</h2></br>
-<h3>
-===============================</br>
-
-Junior Bug Hunter & Ethical Hacker</br>
------------------------------</br>
-
-*   🖥️  See my portfolio at [omidnasiripouya.ir](https://omidnasiripouya.ir)</br>
-*   🚀  I'm currently working on [UDork.py](https://github.com/Noob2Pr0/UDork)</br>
-*   🤝  I'm open to cooperate in legal hacking tools projects</br>
-</h3>
+</h2>
 <font color="" size="4">My Skills</font>
 <p></p>
   <a href="python.org"><img src="https://omidnasiripouya.ir/GithubSkin/python-colored.svg" width="36" height="36" alt="Python"></a>
@@ -33,21 +23,16 @@ Junior Bug Hunter & Ethical Hacker</br>
   <a href="https://youtube.com/Noob2Pr0/"><img src="https://omidnasiripouya.ir/GithubSkin/youtube.svg" width="32" height="32" /></a>
   <a href="https://t.me/Noob2Pr0"><img src="https://omidnasiripouya.ir/GithubSkin/telegram.png" width="32" height="32" /></a>
 </p>
+<h3>
+===============================</br>
+Junior Bug Hunter & Ethical Hacker</br>
+===============================</br>
+
+*   🖥️  See my portfolio at [omidnasiripouya.ir](https://omidnasiripouya.ir)</br>
+*   🚀  I'm currently working on [UDork.py](https://github.com/Noob2Pr0/UDork)</br>
+*   🤝  I'm open to cooperate in legal hacking tools projects</br>
+</h3>
+
 
 </center>
 </body>
-
-<!--
-**Noob2Pr0/Noob2Pr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
