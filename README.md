@@ -8,6 +8,7 @@ I am Omid Nasiri pouya
 <font color="" size="4">My Skills</font>
 <p></p>
   <a href="python.org"><img src="https://omidnasiripouya.ir/GithubSkin/python-colored.svg" width="36" height="36" alt="Python"></a>
+  <a href="python.org"><img src="https://omidnasiripouya.ir/GithubSkin/bash.png" width="36" height="36" alt="Python"></a>
   <a href="w3schools.com"><img src="https://omidnasiripouya.ir/GithubSkin/html5-colored.svg" width="36" height="36" alt="HTML"></a>
   <a href="w3schools.com"><img src="https://omidnasiripouya.ir/GithubSkin/css3-colored.svg" width="36" height="36" alt="CSS"></a>
 </p>
