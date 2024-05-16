@@ -30,8 +30,7 @@ Junior Bug Hunter & Ethical Hacker</br>
 ===============================</br>
 
 *   🖥️  See my portfolio at [omidnasiripouya.ir](https://omidnasiripouya.ir)</br>
-*   🚀  I'm currently working on [UDork.py](https://github.com/Noob2Pr0/UDork)</br>
-*   🤝  I'm open to cooperate in legal hacking tools projects</br>
+*   🚀  I'm currently working on [lilSpider.py]</br>
 </h3>
 
 
