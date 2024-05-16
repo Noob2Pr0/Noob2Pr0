@@ -18,7 +18,7 @@ I am Omid Nasiri pouya
   <a href="https://www.instagram.com/Noob2Pr0"><img src="https://omidnasiripouya.ir/GithubSkin/instagram.png" width="32" height="32" /></a>
   <a href="https://www.github.com/Noob2Pr0"><img src="https://omidnasiripouya.ir/GithubSkin/github.png" width="32" height="32" /></a>
   <a href="https://omidnasiripouya.ir"><img src="https://omidnasiripouya.ir/GithubSkin/web.png" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/omidnasiri"><img src="https://omidnasiripouya.ir/GithubSkin/linkedin.png" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/omid-nasiri-pouya-4b2241294/"><img src="https://omidnasiripouya.ir/GithubSkin/linkedin.png" width="32" height="32" /></a>
   <!--<a href="https://www.twitter.com/" target="_blank" rel="noreferrer"><img src="https://omidnasiripouya.ir/GithubSkin/twitter.png" width="32" height="32" /></a></p>
   -->
   <a href="https://youtube.com/Noob2Pr0/"><img src="https://omidnasiripouya.ir/GithubSkin/youtube.svg" width="32" height="32" /></a>
