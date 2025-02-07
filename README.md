@@ -5,7 +5,6 @@ Hello Friend
 <h2>
 I am Omid Nasiri pouya
 </h2>
-<font color="" size="4">My Skills</font>
 <p></p>
   <a href="python.org"><img src="https://<center>
 <h1 style="font-family: 'MR ROBOT';src: url(./MR%20ROBOT.woff2) format('woff2');">
